@@ -120,7 +120,7 @@ The notebook answers questions like:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ipl-data-analysis.git
+git clone https://github.com/aditya-singh-chauhan-ai/IPL_2022_ANALYSIS.git
 ```
 
 ---
